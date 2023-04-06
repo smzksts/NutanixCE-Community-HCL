@@ -18,3 +18,4 @@ Nutanix CE Version,Hypervisor,ESXi Version,# of nodes,Manufacturer,Hardware Mode
 "2.0 (March 2023, AOS 6.5.2)",Nutanix AHV;,,1,ASRock,DeskMini H470,Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz,64,USB flash drive,M.2 SATA,On-board SATA,On-board SATA,,On-board;,Intel I219-V,Automatic cluster creation timed out. Name Server and NTP Server need to be added manually.,Satoshi Shimazaki
 "2.0 (March 2023, AOS 6.5.2)",Nutanix AHV;,,4,Dell,powerEdge R630,Xeon　E5-2640,128,USB flash drive,Add-on HBA,Add-on HBA,Add-on HBA,PERC H330p,On-board;,Intel Ethernet I350 QP 1Gb Network Daughter Card,,hide
 "2.0 (March 2023, AOS 6.5.2)",Nutanix AHV;,,1,HP,EliteDesk G4 SFF,Intel Core i8700,32,USB flash drive,On-board SATA,On-board SATA,M.2 NVMe,,Add-on;,Intel XA520-DA2,,Owen Reynolds (@OVDamn)
+"2.0 (March 2023, AOS 6.5.2)",Nutanix AHV;,,1,HP,Z420,Xeon E5-2660 v2,128,Virtual DVD,On-board SATA,On-board SATA,On-board SATA,,Add-on;,Intel X550-T2,,Yusuke Mizuta
