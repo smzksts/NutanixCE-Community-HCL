@@ -19,3 +19,4 @@ Nutanix CE Version,Hypervisor,ESXi Version,# of nodes,Manufacturer,Hardware Mode
 "2.0 (March 2023, AOS 6.5.2)",Nutanix AHV;,,4,Dell,powerEdge R630,Xeon　E5-2640,128,USB flash drive,Add-on HBA,Add-on HBA,Add-on HBA,PERC H330p,On-board;,Intel Ethernet I350 QP 1Gb Network Daughter Card,,hide
 "2.0 (March 2023, AOS 6.5.2)",Nutanix AHV;,,1,HP,EliteDesk G4 SFF,Intel Core i8700,32,USB flash drive,On-board SATA,On-board SATA,M.2 NVMe,,Add-on;,Intel XA520-DA2,,Owen Reynolds (@OVDamn)
 "2.0 (March 2023, AOS 6.5.2)",Nutanix AHV;,,1,HP,Z420,Xeon E5-2660 v2,128,Virtual DVD,On-board SATA,On-board SATA,On-board SATA,,Add-on;,Intel X550-T2,,Yusuke Mizuta
+"2.0 (March 2023, AOS 6.5.2)",Nutanix AHV;,,1,HPE,DL360p Gen8,2 x Intel(R) Xeon(R) CPU E5-2695 v2 @ 2.40GHz,256,IPMI virtual media,USB,On-board SATA,On-board SATA,,On-board;,HP Ethernet 1Gb 4-port 331FLR Adapter,,Blake Benton
