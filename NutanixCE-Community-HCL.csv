@@ -20,3 +20,5 @@ Nutanix CE Version,Hypervisor,ESXi Version,# of nodes,Manufacturer,Hardware Mode
 "2.0 (March 2023, AOS 6.5.2)",Nutanix AHV;,,1,HP,EliteDesk G4 SFF,Intel Core i8700,32,USB flash drive,On-board SATA,On-board SATA,M.2 NVMe,,Add-on;,Intel XA520-DA2,,Owen Reynolds (@OVDamn)
 "2.0 (March 2023, AOS 6.5.2)",Nutanix AHV;,,1,HP,Z420,Xeon E5-2660 v2,128,Virtual DVD,On-board SATA,On-board SATA,On-board SATA,,Add-on;,Intel X550-T2,,Yusuke Mizuta
 "2.0 (March 2023, AOS 6.5.2)",Nutanix AHV;,,1,HPE,DL360p Gen8,2 x Intel(R) Xeon(R) CPU E5-2695 v2 @ 2.40GHz,256,IPMI virtual media,USB,On-board SATA,On-board SATA,,On-board;,HP Ethernet 1Gb 4-port 331FLR Adapter,,Blake Benton
+"2.0 (March 2023, AOS 6.5.2)",Nutanix AHV;,,1,Lenovo,ThinkCentre M75s Gen2,Ryzen 7 Pro 5750G,128,Virtual DVD,M.2 NVMe,M.2 NVMe,On-board SATA,,Add-on;,Intel I225-V rev.03,NIC Model - https://amzn.asia/d/0FHirKG,Yusuke Mizuta
+2020.09.16,Nutanix AHV;,,1,FUJITSU,PRIMERGY RX1330 M4,Intel(R) Xeon(R) E-2288G CPU @ 3.70GHz,48,USB flash drive,Other,Other,Other,FUJITSU PRAID EP420i,On-board;Add-on;,PYBLA262L,,Anonoymous
