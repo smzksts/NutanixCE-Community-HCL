@@ -34,3 +34,6 @@ Nutanix CE Version,Hypervisor,ESXi Version,# of nodes,Manufacturer,Hardware Mode
 "2.0 (March 2023, AOS 6.5.2)",Nutanix AHV;,,3,HP,Z620,Intel Xeon E5-2680 v1,96,USB flash drive,On-board SATA,On-board SATA,On-board SATA,,On-board;,Intel 82574L,,Kurt Telep
 "2.0 (March 2023, AOS 6.5.2)",Nutanix AHV;,N/A,1,Dell EMC,PowerEdge R530,Intel(R) Xeon(R) CPU E5-2630 v4 @ 2.20GHz,128,USB flash drive,On-board SATA,Add-on HBA,Add-on HBA,PERC H730 Mini,On-board;Add-on;,Broadcom Gigabit Ethernet BCM5720,,Chris Hall
 "2.0 (March 2023, AOS 6.5.2)",Nutanix AHV;,,1,Dell,optiplex 3080 sff,Core i5-10505,64,USB flash drive,On-board SATA,M.2 NVMe,On-board SATA,,On-board;,Realtek RTL8111HSD-CG,UEFIでセキュアブート無効化、SATAの設定をRAID→AHCIに変更する必要あり（NvME認識させるため）,うまいま
+"2.0 (March 2023, AOS 6.5.2)",Nutanix AHV;,,1,HP,Z620,Intel(R) Xeon(R) CPU E5-2690 0 @ 2.90GHz,128,DVD,On-board SATA,On-board SATA,On-board SATA,,On-board;Add-on;,NC331T(Broadcom/quad),,くまねこさん
+"2.0 (March 2023, AOS 6.5.2)",Nutanix AHV;,,1,Dell,Optiplex 7080 SFF,Intel(R) Core(TM) i7-10700 CPU @ 2.90GHz (8c16t),128,USB flash drive,M.2 NVMe,On-board SATA,On-board SATA,,On-board;, i219-LM,CVMにNVMeを使うとCVMが起動しない事象発生,うまいま
+"2.0 (March 2023, AOS 6.5.2)",Nutanix AHV;,,1,Dell,OptiPlex 7080 SFF,i7-10700 (8C16T),128,USB flash drive,M.2 NVMe,M.2 NVMe,M.2 SATA,,On-board;,i219-LM,NVMe SSD for CVM is aligned with the PCIE gen of the chipset.,うまいま
