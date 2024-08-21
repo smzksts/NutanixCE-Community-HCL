@@ -36,4 +36,5 @@ Nutanix CE Version,Hypervisor,ESXi Version,# of nodes,Manufacturer,Hardware Mode
 "2.0 (March 2023, AOS 6.5.2)",Nutanix AHV;,,1,Dell,optiplex 3080 sff,Core i5-10505,64,USB flash drive,On-board SATA,M.2 NVMe,On-board SATA,,On-board;,Realtek RTL8111HSD-CG,UEFIでセキュアブート無効化、SATAの設定をRAID→AHCIに変更する必要あり（NvME認識させるため）,うまいま
 "2.0 (March 2023, AOS 6.5.2)",Nutanix AHV;,,1,HP,Z620,Intel(R) Xeon(R) CPU E5-2690 0 @ 2.90GHz,128,DVD,On-board SATA,On-board SATA,On-board SATA,,On-board;Add-on;,NC331T(Broadcom/quad),,くまねこさん
 "2.0 (March 2023, AOS 6.5.2)",Nutanix AHV;,,1,Dell,Optiplex 7080 SFF,Intel(R) Core(TM) i7-10700 CPU @ 2.90GHz (8C16T),128,USB-SSD,M.2 NVMe,M.2 NVMe,On-board SATA,,On-board;Add-on;,"On-boad i219-LM, Add-on I210-T1","NVMe that CVM has confirmed to boot (KIOXIA KBG40ZNS, KIOXIA EXCERIA G2, CORSAIR ForceMP600, SAMSUNG M2VLQ). NVMe that CVM failed to confirm to start (Western Digital SN770M)",umaima
+"2.1 (August 2024, AOS 6.8.1)",Nutanix AHV,,1,Dell,"	Optiplex 7080 SFF",Intel(R) Core(TM) i7-10700 CPU @ 2.90GHz (8C16T),128,USB-SSD,On-board SATA,M.2 NVMe,On-board SATA,,Add-on;,Side3 2.5Gbps Intel I225-V,,umaima
 
