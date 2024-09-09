@@ -41,4 +41,4 @@ Nutanix CE Version,Hypervisor,ESXi Version,# of nodes,Manufacturer,Hardware Mode
 "2.0 (March 2023, AOS 6.5.2)",Nutanix AHV,,3,Shuttle,SH570R8,Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz,64,USB flash drive,On-board SATA,M.2 SATA,On-board SATA,,On-board;,intel i219LM,XH410G×2台、SH570R8×1台で3ノードクラスタ化。インストーラー起動時にカーネルパラメータとして nomodeset を追加する必要があります。NICのI210ATがうまく認識されずエラーが出たりクラッシュしたりしたのでBIOSで予めDisableにしました。,ごまみ
 "2.1 (August 2024, AOS 6.8.1)",Nutanix AHV,,1,Dell,"	Optiplex 7080 SFF",Intel(R) Core(TM) i7-10700 CPU @ 2.90GHz (8C16T),128,USB-SSD,On-board SATA,M.2 NVMe,On-board SATA,,Add-on;,Side3 2.5Gbps Intel I225-V,,umaima
 "2.1 (August 2024, AOS 6.8.1)",Nutanix AHV,,1,Intel,NUC11PAHi50Z,i5-1135G7,64,DVD,On-board SATA,On-board SATA,On-board SATA,,On-board;,I225-V,,stablelu
-
+"2.1 (August 2024, AOS 6.8.1)",Nutanix AHV,,3,Dell,OptiPlex 7050 Micro,i5-6500T,32,USB flash drive,USB,On-board SATA,On-board SATA,,On-board;,Intel® i219-V,"3 matching nodes, 1 Tb 5200RPM HDD, 500 Gb NVME, Utilizing SanDisk Ultra Flair USBs (USB quality matters A LOT)",Orniel
