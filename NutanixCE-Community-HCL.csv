@@ -1,4 +1,4 @@
-Nutanix CE Version,Hypervisor,ESXi Version,# of nodes,Manufacturer,Hardware Model name,"CPU Model name",Memory(GB),Installation Media,Hypervisor Boot,CVM Boot,Data,HBA model,NIC Type,NIC model,Comment,Submietter
+﻿Nutanix CE Version,Hypervisor,ESXi Version,# of nodes,Manufacturer,Hardware Model name,"CPU Model name",Memory(GB),Installation Media,Hypervisor Boot,CVM Boot,Data,HBA model,NIC Type,NIC model,Comment,Submietter
 "2.0 (March 2023, AOS 6.5.2)",Nutanix AHV;,,1,Lenovo,ThinkCentre M75s Small Gen2,AMD Ryzen 7 PRO 5750G with Radeon Graphics,128,USB flash drive,M.2 NVMe,On-board SATA,On-board SATA,,On-board;,RTL8168ep/8111ep,,Satoshi Shimazaki
 "2.0 (March 2023, AOS 6.5.2)",Nutanix AHV;,,1,Lenovo,ThinkCentre M75q Tiny Gen2,AMD Ryzen 7 PRO 4750GE with Radeon Graphics,64,USB flash drive,USB,M.2 NVMe,On-board SATA,,On-board;,RTL8168fp/RTL8117,,Satoshi Shimazaki
 "2.0 (March 2023, AOS 6.5.2)",Nutanix AHV;,,3,Nested on VMware ESXi,ESXi 7.0 u3c,,,Virtual CD/DVD Drive,Other,Other,Other,PVSCSI,Add-on;,VMXNET3,"""disk.EnableUUID"" of the VM is needed to be set as ""TRUE"".",Satoshi Shimazaki
