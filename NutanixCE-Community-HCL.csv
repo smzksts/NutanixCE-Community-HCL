@@ -49,3 +49,4 @@
 "2.1 (August 2024, AOS 6.8.1)",Nutanix AHV,,1,FUJITSU,ESPRIMO D588/BX(FMVD4300JP),Intel(R) Core(TM) i5-9500 CPU @ 3.00GHz,32,USB flash drive,Other,On-board SATA,On-board SATA,SATA SSD(SATA to USB) smaller than CVM Boot SSD size,On-board;,Realtek 8168,,TaroSaito3
 "2.1 (August 2024, AOS 6.8.1)",Nutanix AHV,,1,Lenovo,ThinkCentre M75s,AMD 5600,64,USB flash drive,USB,On-board SATA,M.2 NVMe,,On-board;,Realtek ,"USB Stick for Hypervisor Boot, SSD for CVM, NVMe + SSD for Data",swischer
 "2.1 (August 2024, AOS 6.8.1)",Nutanix AHV,,1,Minisforum,MS-01,13th Gen Intel(R) Core(TM) i9-13900H,64,USB flash drive,M.2 NVMe,M.2 NVMe,M.2 NVMe,,On-board;,Intel Corporation Ethernet Controller X710 for 10GbE SFP+ (rev 02),,八重垣八雲
+"2.1 (August 2024, AOS 6.8.1)",Nutanix AHV,,3,Nested on VMware ESXi,HPE Proliant DL160 Gen8,model name      : Intel(R) Xeon(R) CPU E5-2680 0 @ 2.70GHz,56,データストアISOマウント,Other,Other,Other,VMware準仮想化,Add-on;,VMXNET3,4TB SSDにインストールしているのにも関わらず2時間弱/1AHVかかって疲れました,earis
