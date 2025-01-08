@@ -50,3 +50,5 @@
 "2.1 (August 2024, AOS 6.8.1)",Nutanix AHV,,1,Lenovo,ThinkCentre M75s,AMD 5600,64,USB flash drive,USB,On-board SATA,M.2 NVMe,,On-board;,Realtek ,"USB Stick for Hypervisor Boot, SSD for CVM, NVMe + SSD for Data",swischer
 "2.1 (August 2024, AOS 6.8.1)",Nutanix AHV,,1,Minisforum,MS-01,13th Gen Intel(R) Core(TM) i9-13900H,64,USB flash drive,M.2 NVMe,M.2 NVMe,M.2 NVMe,,On-board;,Intel Corporation Ethernet Controller X710 for 10GbE SFP+ (rev 02),,八重垣八雲
 "2.1 (August 2024, AOS 6.8.1)",Nutanix AHV,,3,Nested on VMware ESXi,HPE Proliant DL160 Gen8,model name      : Intel(R) Xeon(R) CPU E5-2680 0 @ 2.70GHz,56,データストアISOマウント,Other,Other,Other,VMware準仮想化,Add-on;,VMXNET3,4TB SSDにインストールしているのにも関わらず2時間弱/1AHVかかって疲れました,earis
+"2.1 (August 2024, AOS 6.8.1)",Nutanix AHV,,3,Cisco,ucs -c200b,xeon,64,USB flash drive,M.2 NVMe,USB,M.2 NVMe,intel ,On-board;,e1000,no comment,Svet
+"2.1 (August 2024, AOS 6.8.1)",Nutanix AHV,,1,HP,HP EliteDesk 800 G4 SFF,Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz,64,USB flash drive,M.2 NVMe,M.2 NVMe,On-board SATA,,Add-on;On-board;, Intel I350-T4 1GbE Quad Port Ethernet NIC,"Works, but had to remove back-plate of NIC card.",Greg Focaccio
