@@ -75,3 +75,6 @@
 "2.1 (August 2024, AOS 6.8.1)",Nutanix AHV,,1,HP,prodesk,i7,32,USB flash drive,On-board SATA,On-board SATA,On-board SATA,,On-board,intel,,jose
 "2.1 (August 2024, AOS 6.8.1)",Nutanix AHV,,4,Nested on Nutanix AHV,VM,"cat /proc/cpuinfo | grep ""model name"" | head -n 1",200,DVD,On-board SATA,USB,M.2 SATA,1,Add-on,1,,shaikh shabbir
 "2.1 (August 2024, AOS 6.8.1)",Nutanix AHV,,3,HP,Z840,,96,USB flash drive,On-board SATA,On-board SATA,On-board SATA,,On-board,boradcom,,paul
+"2.1 (August 2024, AOS 6.8.1)",Nutanix AHV,,1,HPE,ML110,Intel,128,USB flash drive,M.2 SATA,M.2 SATA,M.2 SATA,,On-board;,Broadcom,,Edgar Moreno
+"2.1 (August 2024, AOS 6.8.1)",Nutanix AHV,,3,GMKtec (gmktek.com),K8 plus,AMD Ryzen 7 8845HS w/ Radeon 780M Graphics,96,USB flash drive,USB,M.2 NVMe,M.2 NVMe,,On-board;,Intel® Ethernet Controller I226-V,Network driver issue has been resolved after reading a post on https://smzklab.net/2023/04/nutanix-ce-2-0-how-to-resolve-intel-2-5gbe-nic-issue.html,ytodorff
+"2.1 (August 2024, AOS 6.8.1)",Nutanix AHV,,1,ASRock,ASROCK D1541D4U-2O8R,Intel Xeon D1541,128,USB flash drive,On-board SATA,On-board SATA,Other,On-Board LSI3008,On-board;Add-on;,Cirrus Logic CS4227 (On-Board 2x 10Gbe SFP+) + Intel i350 dual port 1Gbe adapter,For data drives I'm using 2x Samsung PM1643a 7.68TB SAS SSD's,Sjoerd Vinkenvleugel
